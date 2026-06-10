@@ -1,8 +1,9 @@
-
 # 📋 Pokedex
 Título do Projeto: PokeInfo
 
-Banner ou Screenshot: Se o projeto tiver uma interface visual, coloque uma imagem ou um GIF dele funcionando logo no topo.
+Screenshot
+<img width="804" height="940" alt="Img-pokedex" src="https://github.com/user-attachments/assets/2f62b0b5-d75d-4208-b10f-bfe086a6498e" />
+
 
 Descrição/Sobre o Projeto: É uma pokedex feita basicamente em HTML + CSS e JavaScript extraindo API do site do pokedex
 
