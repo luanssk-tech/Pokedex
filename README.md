@@ -1,5 +1,6 @@
 # 📋 Pokedex
 Título do Projeto: PokeInfo
+
 Descrição/Sobre o Projeto: É uma pokedex feita basicamente em HTML + CSS e JavaScript extraindo API do site do pokeAPI
 
 Screenshot
