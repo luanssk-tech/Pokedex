@@ -7,7 +7,7 @@ Screenshot
 >
 
 
-Descrição/Sobre o Projeto: É uma pokedex feita basicamente em HTML + CSS e JavaScript extraindo API do site do pokedex
+Descrição/Sobre o Projeto: É uma pokedex feita basicamente em HTML + CSS e JavaScript extraindo API do site do pokeAPI
 
 🔨 Funcionalidades = É possivel visualizar informações de pokemons como:
 - ID
