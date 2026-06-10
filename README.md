@@ -2,6 +2,7 @@
 Título do Projeto: PokeInfo
 
 Screenshot
+
 <img width="804" height="940" alt="Img-pokedex" src="https://github.com/user-attachments/assets/2f62b0b5-d75d-4208-b10f-bfe086a6498e" />
 
 
